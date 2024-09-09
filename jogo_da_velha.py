@@ -81,5 +81,4 @@ def jogo_da_velha():
             break
 
         player = ' O ' if player == ' x ' else ' x '
-
 jogo_da_velha()
